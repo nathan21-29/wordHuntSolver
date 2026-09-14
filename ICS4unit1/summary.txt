@@ -1,0 +1,14 @@
+Summary of your purchases:
+
+AMOUNT SPENT            $4.99
+# GEMS PURCHASED        80
+
+--------------------------------------------------------
+ITEM PURCHASED          TYPE              # GEMS            
+--------------          ----              -------           
+xp doubler              /                   25              
+brawler                 raRE                29              
+--------------------------------------------------------
+
+TOTAL # GEMS SPENT                          54
+# GEMS LEFT                                 26
